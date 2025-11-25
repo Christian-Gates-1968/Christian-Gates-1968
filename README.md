@@ -6,9 +6,11 @@
 
 </div>
 
-Hi, I'm **Krishanu** — a computer science student working across **Full-Stack Web Development, AI, and Data Analytics**. I focus on building clean, functional solutions and enjoy operating at the intersection of technology, data, and intelligent systems.
+### 👨‍💻 About Me
 
-Beyond my personal projects, I am deeply invested in exploring how machine learning can optimize real-world processes, constantly experimenting with new frameworks to build tools that are both powerful and user-friendly.
+I am a **Computer Science Student** operating at the intersection of **Web Development** and **Artificial Intelligence**. 
+
+I don't just write code; I build systems. My focus is on creating seamless full-stack applications and integrating them with intelligent machine learning models. Whether it's crafting a responsive frontend or optimizing backend logic for data analytics, I am driven by the challenge of making complex tech accessible and functional.
 
 ---
 
@@ -16,15 +18,21 @@ Beyond my personal projects, I am deeply invested in exploring how machine learn
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,tensorflow,powerbi,java,mongodb,mysql,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,tensorflow,java,mongodb,mysql,postman&theme=dark" />
   </a>
 </p>
 
 ---
 
+### 📊 Analytics
+
 <div align="center">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian-Gates-1968&theme=tokyonight" />
+  <a href="https://github.com/Christian-Gates-1968">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Christian-Gates-1968&show_icons=true&theme=transparent&hide_border=true&title_color=00FF6A&text_color=ffffff&icon_color=00FF6A" />
+  </a>
+  <a href="https://github.com/Christian-Gates-1968">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&layout=compact&theme=transparent&hide_border=true&title_color=00FF6A&text_color=ffffff" />
+  </a>
 </div>
 
 <br/>
