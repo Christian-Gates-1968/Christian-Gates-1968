@@ -28,9 +28,11 @@ I don't just write code; I build systems. My focus is on creating seamless full-
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christian-Gates-1968&show_icons=true&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Christian-Gates-1968&theme=highcontrast&hide_border=true" alt="Streak Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&layout=compact&theme=dark&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
 
 </div>
 
