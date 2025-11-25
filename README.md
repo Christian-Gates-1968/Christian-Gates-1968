@@ -50,21 +50,21 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Christian-Gates-1968">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/Christian-Gates-1968">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian-Gates-1968&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00ff6a&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Christian-Gates-1968&label=Profile%20views&color=00ff6a&style=flat" alt="Views" />
 </div>
