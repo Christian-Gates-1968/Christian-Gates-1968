@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://github.com/Christian-Gates-1968">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Gates-1968&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/Christian-Gates-1968">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&layout=compact&theme=tokyonight" />
