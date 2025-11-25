@@ -27,11 +27,11 @@ I don't just write code; I build systems. My focus is on creating seamless full-
 ### 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-Gates-1968&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christian-Gates-1968&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&layout=compact&theme=dark&hide_border=true)
+
 </div>
 
 <br/>
