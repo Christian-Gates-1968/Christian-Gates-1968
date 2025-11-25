@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff6a&height=220&section=header&text=Hi%20I%20am%20Krishanu&fontSize=70&fontAlignY=40&descAlignY=60&descAlign=50" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF6A&center=true&vCenter=true&width=435&lines=HEY,+I+AM+KRISHANU;CRAZY+STUFFS+EXCITE+ME+⚡" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF6A&center=true&vCenter=true&width=435&lines=HEY,+I+AM+KRISHANU;CRAZY+STUFFS+EXCITE+ME" alt="Typing SVG" />
   </a>
 
   <h3>
