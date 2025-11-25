@@ -27,12 +27,11 @@ I don't just write code; I build systems. My focus is on creating seamless full-
 ### 📊 Analytics
 
 <div align="center">
-  <a href="https://github.com/Christian-Gates-1968">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Christian-Gates-1968&show_icons=true&theme=transparent&hide_border=true&title_color=00FF6A&text_color=ffffff&icon_color=00FF6A" />
-  </a>
-  <a href="https://github.com/Christian-Gates-1968">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&layout=compact&theme=transparent&hide_border=true&title_color=00FF6A&text_color=ffffff" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-Gates-1968&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
