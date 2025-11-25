@@ -25,19 +25,15 @@ I don't just write code; I build systems. My focus is on creating seamless full-
 ---
 
 ### 📊 Analytics
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Christian-Gates-1968&theme=highcontrast&hide_border=true" alt="Streak Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Christian-Gates-1968&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+  
+  <br/>
+  <br/>
 
-<br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian-Gates-1968&theme=tokyonight" alt="Profile Details" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Christian-Gates-1968&label=Profile%20views&color=00ff6a&style=flat" alt="Views" />
 </div>
