@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff6a&height=220&section=header&text=Hi%20I%20am%20Krishanu&fontSize=70&fontAlignY=40&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff6a&height=150&section=header" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF6A&center=true&vCenter=true&width=435&lines=HEY,+I+AM+KRISHANU;CRAZY+STUFFS+EXCITE+ME" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF6A&center=true&vCenter=true&width=435&lines=HEY,+I+AM+KRISHANU;CRAZY+STUFFS+EXCITE+ME+⚡" alt="Typing SVG" />
   </a>
 
   <h3>
@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://github.com/Christian-Gates-1968">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Gates-1968&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Gates-1968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/Christian-Gates-1968">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gates-1968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
